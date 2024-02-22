@@ -1,0 +1,42 @@
+{
+  "name": "some-extension",
+  "description": "Enhances your experience with shuttle.",
+  "version": "v0.1.0",
+  "downloadUrls": [
+    {
+      "architecture": "amd64",
+      "os": "darwin",
+      "url": "https://github.com/kjuulh/some-extension/releases/download/v0.1.0/some-extension-darwin-amd64",
+      "checksum": "",
+      "provider": "github-release"
+    },
+    {
+      "architecture": "arm64",
+      "os": "darwin",
+      "url": "https://github.com/kjuulh/some-extension/releases/download/v0.1.0/some-extension-darwin-arm64",
+      "checksum": "",
+      "provider": "github-release"
+    },
+    {
+      "architecture": "386",
+      "os": "linux",
+      "url": "https://github.com/kjuulh/some-extension/releases/download/v0.1.0/some-extension-linux-386",
+      "checksum": "",
+      "provider": "github-release"
+    },
+    {
+      "architecture": "amd64",
+      "os": "linux",
+      "url": "https://github.com/kjuulh/some-extension/releases/download/v0.1.0/some-extension-linux-amd64",
+      "checksum": "",
+      "provider": "github-release"
+    },
+    {
+      "architecture": "arm64",
+      "os": "linux",
+      "url": "https://github.com/kjuulh/some-extension/releases/download/v0.1.0/some-extension-linux-arm64",
+      "checksum": "",
+      "provider": "github-release"
+    }
+  ]
+}
