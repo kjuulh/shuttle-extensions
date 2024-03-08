@@ -1,0 +1,42 @@
+{
+  "name": "some-binary",
+  "description": "Enhances your experience with shuttle.",
+  "version": "v0.1.0",
+  "downloadUrls": [
+    {
+      "architecture": "amd64",
+      "os": "darwin",
+      "url": "https://github.com/kjuulh/some-binary/releases/download/v0.1.0/some-binary-darwin-amd64",
+      "checksum": "",
+      "provider": "github-release"
+    },
+    {
+      "architecture": "arm64",
+      "os": "darwin",
+      "url": "https://github.com/kjuulh/some-binary/releases/download/v0.1.0/some-binary-darwin-arm64",
+      "checksum": "",
+      "provider": "github-release"
+    },
+    {
+      "architecture": "386",
+      "os": "linux",
+      "url": "https://github.com/kjuulh/some-binary/releases/download/v0.1.0/some-binary-linux-386",
+      "checksum": "",
+      "provider": "github-release"
+    },
+    {
+      "architecture": "amd64",
+      "os": "linux",
+      "url": "https://github.com/kjuulh/some-binary/releases/download/v0.1.0/some-binary-linux-amd64",
+      "checksum": "",
+      "provider": "github-release"
+    },
+    {
+      "architecture": "arm64",
+      "os": "linux",
+      "url": "https://github.com/kjuulh/some-binary/releases/download/v0.1.0/some-binary-linux-arm64",
+      "checksum": "",
+      "provider": "github-release"
+    }
+  ]
+}
