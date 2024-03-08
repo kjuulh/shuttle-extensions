@@ -1,0 +1,42 @@
+{
+  "name": "fuzzy-clone",
+  "description": "Enhances your experience with shuttle.",
+  "version": "v0.1.0",
+  "downloadUrls": [
+    {
+      "architecture": "amd64",
+      "os": "darwin",
+      "url": "https://github.com/kjuulh/fuzzy-clone/releases/download/v0.1.0/fuzzy-clone-darwin-amd64",
+      "checksum": "",
+      "provider": "github-release"
+    },
+    {
+      "architecture": "arm64",
+      "os": "darwin",
+      "url": "https://github.com/kjuulh/fuzzy-clone/releases/download/v0.1.0/fuzzy-clone-darwin-arm64",
+      "checksum": "",
+      "provider": "github-release"
+    },
+    {
+      "architecture": "386",
+      "os": "linux",
+      "url": "https://github.com/kjuulh/fuzzy-clone/releases/download/v0.1.0/fuzzy-clone-linux-386",
+      "checksum": "",
+      "provider": "github-release"
+    },
+    {
+      "architecture": "amd64",
+      "os": "linux",
+      "url": "https://github.com/kjuulh/fuzzy-clone/releases/download/v0.1.0/fuzzy-clone-linux-amd64",
+      "checksum": "",
+      "provider": "github-release"
+    },
+    {
+      "architecture": "arm64",
+      "os": "linux",
+      "url": "https://github.com/kjuulh/fuzzy-clone/releases/download/v0.1.0/fuzzy-clone-linux-arm64",
+      "checksum": "",
+      "provider": "github-release"
+    }
+  ]
+}
