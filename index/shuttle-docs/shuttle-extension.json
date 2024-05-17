@@ -1,0 +1,42 @@
+{
+  "name": "shuttle-docs",
+  "description": "Enhances your experience with shuttle.",
+  "version": "v0.1.0",
+  "downloadUrls": [
+    {
+      "architecture": "amd64",
+      "os": "darwin",
+      "url": "https://api.github.com/repos/kjuulh/shuttle-docs/releases/assets/168517988",
+      "checksum": "",
+      "provider": "github-release"
+    },
+    {
+      "architecture": "arm64",
+      "os": "darwin",
+      "url": "https://api.github.com/repos/kjuulh/shuttle-docs/releases/assets/168517989",
+      "checksum": "",
+      "provider": "github-release"
+    },
+    {
+      "architecture": "386",
+      "os": "linux",
+      "url": "https://api.github.com/repos/kjuulh/shuttle-docs/releases/assets/168517981",
+      "checksum": "",
+      "provider": "github-release"
+    },
+    {
+      "architecture": "amd64",
+      "os": "linux",
+      "url": "https://api.github.com/repos/kjuulh/shuttle-docs/releases/assets/168517982",
+      "checksum": "",
+      "provider": "github-release"
+    },
+    {
+      "architecture": "arm64",
+      "os": "linux",
+      "url": "https://api.github.com/repos/kjuulh/shuttle-docs/releases/assets/168517990",
+      "checksum": "",
+      "provider": "github-release"
+    }
+  ]
+}
