@@ -1,40 +1,40 @@
 {
   "name": "some-extension",
   "description": "Enhances your experience with shuttle.",
-  "version": "v0.1.1",
+  "version": "v0.1.0",
   "downloadUrls": [
     {
       "architecture": "amd64",
       "os": "darwin",
-      "url": "https://api.github.com/repos/kjuulh/some-extension/releases/assets/152943374",
+      "url": "https://api.github.com/repos/kjuulh/some-extension/releases/assets/152942617",
       "checksum": "",
       "provider": "github-release"
     },
     {
       "architecture": "arm64",
       "os": "darwin",
-      "url": "https://api.github.com/repos/kjuulh/some-extension/releases/assets/152943373",
+      "url": "https://api.github.com/repos/kjuulh/some-extension/releases/assets/152942616",
       "checksum": "",
       "provider": "github-release"
     },
     {
       "architecture": "386",
       "os": "linux",
-      "url": "https://api.github.com/repos/kjuulh/some-extension/releases/assets/152943376",
+      "url": "https://api.github.com/repos/kjuulh/some-extension/releases/assets/152942618",
       "checksum": "",
       "provider": "github-release"
     },
     {
       "architecture": "amd64",
       "os": "linux",
-      "url": "https://api.github.com/repos/kjuulh/some-extension/releases/assets/152943370",
+      "url": "https://api.github.com/repos/kjuulh/some-extension/releases/assets/152942623",
       "checksum": "",
       "provider": "github-release"
     },
     {
       "architecture": "arm64",
       "os": "linux",
-      "url": "https://api.github.com/repos/kjuulh/some-extension/releases/assets/152943372",
+      "url": "https://api.github.com/repos/kjuulh/some-extension/releases/assets/152942615",
       "checksum": "",
       "provider": "github-release"
     }
