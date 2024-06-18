@@ -2,40 +2,40 @@
   "name": "shuttle-sum",
   "extName": "",
   "description": "Enhances your experience with shuttle.",
-  "version": "v0.1.3",
+  "version": "v0.1.1",
   "downloadUrls": [
     {
       "architecture": "amd64",
       "os": "darwin",
-      "url": "https://api.github.com/repos/kjuulh/shuttle-sum/releases/assets/174456489",
+      "url": "https://api.github.com/repos/kjuulh/shuttle-sum/releases/assets/173144934",
       "checksum": "",
       "provider": "github-release"
     },
     {
       "architecture": "arm64",
       "os": "darwin",
-      "url": "https://api.github.com/repos/kjuulh/shuttle-sum/releases/assets/174456485",
+      "url": "https://api.github.com/repos/kjuulh/shuttle-sum/releases/assets/173144932",
       "checksum": "",
       "provider": "github-release"
     },
     {
       "architecture": "386",
       "os": "linux",
-      "url": "https://api.github.com/repos/kjuulh/shuttle-sum/releases/assets/174456484",
+      "url": "https://api.github.com/repos/kjuulh/shuttle-sum/releases/assets/173144938",
       "checksum": "",
       "provider": "github-release"
     },
     {
       "architecture": "amd64",
       "os": "linux",
-      "url": "https://api.github.com/repos/kjuulh/shuttle-sum/releases/assets/174456488",
+      "url": "https://api.github.com/repos/kjuulh/shuttle-sum/releases/assets/173144935",
       "checksum": "",
       "provider": "github-release"
     },
     {
       "architecture": "arm64",
       "os": "linux",
-      "url": "https://api.github.com/repos/kjuulh/shuttle-sum/releases/assets/174456487",
+      "url": "https://api.github.com/repos/kjuulh/shuttle-sum/releases/assets/173144931",
       "checksum": "",
       "provider": "github-release"
     }
